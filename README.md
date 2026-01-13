@@ -1,6 +1,6 @@
 # 🧳 Smart Luggage Tracking & AI-Powered Transportation System
 
-A **100% software-based intelligent luggage tracking system** that simulates real-time shipment movement and uses **AI/ML models** to predict **ETA, detect route anomalies, and estimate transportation costs** — all without any IoT hardware.
+A **Software-Based Intelligent Luggage Tracking System** that simulates real-time shipment movement and uses **AI/ML models** to predict **ETA, detect route anomalies, and estimate transportation costs** — all without any IoT hardware.
 
 This project demonstrates **backend engineering, microservices, and ML integration** using only **free cloud services**.
 
