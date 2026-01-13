@@ -1,0 +1,9 @@
+avg_speed,delay_minutes,route_deviation_km,stop_duration_min,is_anomaly
+45,5,0.2,0,0
+50,10,0.1,0,0
+5,60,0.3,20,1
+40,45,12,0,1
+0,30,0,15,1
+60,2,0.0,0,0
+10,50,8,5,1
+55,5,0.1,0,0
