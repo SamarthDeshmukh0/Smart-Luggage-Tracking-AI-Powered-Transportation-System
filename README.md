@@ -110,5 +110,5 @@ Spring Boot calls the ML service before confirming shipments.
 - Active & completed luggage
 - Anomaly alerts
 - Live tracking logs
-
 ---
+## 🎥 Demo Video 👉 [View Project Demo](https://drive.google.com/file/d/11EmlQryXbeIGJt6J0s2I6poy4RMz0tie/view)
